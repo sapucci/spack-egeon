@@ -364,7 +364,7 @@ Aqui estão sugestões de testes simples para verificar o funcionamento básico 
 2. **Carregue o módulo stack-openmpi**:
 
   ```bash
-  module load stack-openmpiu/4.1.1
+  module load stack-openmpi/4.1.1
   ```
 
 3. **Compile o código**:

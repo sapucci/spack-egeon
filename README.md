@@ -88,8 +88,8 @@ git clone https://github.com/joaogerd/spack-egeon.git
 Depois de clonado, os arquivos de configuração estarão no diretório `spack-egeon/configs`. Copie-os para a pasta correta do Spack-Stack que você clonou:
 
 ```bash
-cp -r spack-egeon/configs/sites/egeon spack-stack_1.7.0/configs/sites/
-cp -r spack-egeon/configs/templates/mpas-bundle spack-stack_1.7.0/configs/templates/
+cp -r spack-egeon/configs/sites/egeon configs/sites/
+cp -r spack-egeon/configs/templates/mpas-bundle configs/templates/
 ```
 
 ### 🔧 Verificação do `compilers.yaml`
